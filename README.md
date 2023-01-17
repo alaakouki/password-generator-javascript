@@ -14,9 +14,8 @@ You can choose all of these Criterias or at least one of them:
 * Numbers.
 * Special characters.
 
-<!--
 ## Mock-up
-Password Generator webpage URL: https:
+Password Generator webpage URL: https://alaakouki.github.io/password-generator-javascript/
 
 The following image shows password generator webpage appearance for Users on desktop screens:
-![alt Password Generator](./assets/images/) -->
+![alt Password Generator webpage](./assets/images/Password%20Generator%20webpage.png)
